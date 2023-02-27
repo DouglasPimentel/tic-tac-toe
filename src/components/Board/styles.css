@@ -1,0 +1,15 @@
+.board-row:after {
+  clear: both;
+  content: '';
+  display: table;
+}
+
+.wrapper__status {
+  margin: 1.5rem 0;
+}
+
+.wrapper__status .status {
+  font-size: 1.2rem;
+  line-height: 1.5;
+  font-weight: 600; 
+}

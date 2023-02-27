@@ -1,0 +1,16 @@
+.square {
+  width: 4.063rem;
+  height: 4.063rem;
+  margin-right: -0.063rem;
+  margin-left: -0.063rem;
+  padding: 0;
+  background: #fff;
+  border: 0.063rem solid var(--gray);
+  border-bottom: none;
+  font-size: 1.5rem;
+  line-height: 2.125rem;
+  font-weight: 700;
+  text-align: center;
+  cursor: pointer;
+  float: left;
+}
